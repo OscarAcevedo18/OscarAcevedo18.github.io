@@ -21,12 +21,14 @@ body {
     }
     .text-center{
         background-color: #58dbec;
+        font-family: 'Libre Baskerville', serif;
     }
     .card-title,
     .form-control,
     .button{
     font-weight: serif;
     font-size: 20px;
+    color: #58dbec;
     }
     .button {
     font-size: large;
