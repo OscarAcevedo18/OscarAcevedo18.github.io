@@ -4,17 +4,24 @@ body {
     }
     .container{
         text-align: center;
-        justify-content: center;        
+        justify-content: center;      
     }
     .container-fluid{
         background-color: #22b8cc;
         justify-content: flex-end;
+    }
+    .networks{
+        justify-content: center;
+        text-align: center;
+        text-decoration: none;
+        background-color: aquamarine;
     }
     .colorfondo{
     background-color: #22b8cc;
     }
     .text-center{
         background-color: #58dbec;
+        font-family: 'Libre Baskerville', serif;
     }
     .card-title,
     .form-control,
